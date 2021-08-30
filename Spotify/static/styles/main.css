@@ -1,0 +1,27 @@
+body {
+  background-color: #64C9CF;
+}
+
+.card {
+  margin: auto;
+  margin-top: 250px;
+  padding: 0px;
+}
+
+.card-body {
+  background-color: #87A8A4;
+}
+
+.label-div {
+  margin: auto;
+  margin-top: 200px;
+}
+
+.label {
+  font-family: cursive;
+  color: #87A8A4;
+  font-size: 40px;
+  margin-left: 500px;
+  background-color: #FFD371;
+  padding: 10px;
+}

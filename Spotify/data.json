@@ -1,0 +1,15 @@
+{
+    "display_name": "Hartik Salaria",
+    "external_urls": {
+        "spotify": "https://open.spotify.com/user/wrddef3a3v9nkbkca4yj0k70h"
+    },
+    "followers": {
+        "href": null,
+        "total": 0
+    },
+    "href": "https://api.spotify.com/v1/users/wrddef3a3v9nkbkca4yj0k70h",
+    "id": "wrddef3a3v9nkbkca4yj0k70h",
+    "images": [],
+    "type": "user",
+    "uri": "spotify:user:wrddef3a3v9nkbkca4yj0k70h"
+}
