@@ -2,11 +2,11 @@ from spotipy import Spotify, SpotifyException
 from spotipy.oauth2 import SpotifyOAuth
 import json
 
-client_id = "3eeb72c8fd304418b0a059c9f0edd567"
-client_secret = "77a87b64835940a1a810c3a963c63f6b"
+client_id = CLIENT_ID
+client_secret = SECRET_KEY
 redirect_uri = "http://example.com"
 scope = "playlist-modify-private"
-user = "wrddef3a3v9nkbkca4yj0k70h"
+user = USER
 playlist_id = "https://open.spotify.com/playlist/7KYVgAfpuh4q9B7GWGWJlS?si=99f6154bedbf4fc8"
 
 sp = Spotify(
